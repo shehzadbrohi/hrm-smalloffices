@@ -1,0 +1,18 @@
+@page{
+    size:A4;
+    margin:0;
+-webkit-print-color-adjust: exact;
+}
+
+#print-btn{
+    display: none;
+    visibility: none;
+}
+table, th, td,thead,tbody {
+    border: 2px solid black;
+} 
+@media print {
+   body {
+      -webkit-print-color-adjust: exact;
+   }
+}

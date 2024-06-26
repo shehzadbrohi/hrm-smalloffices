@@ -1,0 +1,188 @@
+[19-Feb-2024 03:31:47 America/New_York] PHP Warning:  Undefined array key "alogin" in /home/kartprpf/teamnet.ae/includes/session.php on line 12
+[19-Feb-2024 03:31:47 America/New_York] PHP Warning:  Undefined array key "arole" in /home/kartprpf/teamnet.ae/includes/session.php on line 13
+[19-Feb-2024 03:31:47 America/New_York] PHP Warning:  Undefined array key "adepart" in /home/kartprpf/teamnet.ae/includes/session.php on line 14
+[19-Feb-2024 03:31:47 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[19-Feb-2024 03:31:47 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[19-Feb-2024 03:31:47 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/index.php on line 46
+[19-Feb-2024 03:31:47 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/index.php on line 46
+[20-Feb-2024 01:28:53 America/New_York] PHP Warning:  Undefined array key "alogin" in /home/kartprpf/teamnet.ae/includes/session.php on line 12
+[20-Feb-2024 01:28:53 America/New_York] PHP Warning:  Undefined array key "arole" in /home/kartprpf/teamnet.ae/includes/session.php on line 13
+[20-Feb-2024 01:28:53 America/New_York] PHP Warning:  Undefined array key "adepart" in /home/kartprpf/teamnet.ae/includes/session.php on line 14
+[20-Feb-2024 01:28:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[20-Feb-2024 01:28:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[20-Feb-2024 02:19:34 America/New_York] PHP Warning:  Undefined array key "alogin" in /home/kartprpf/teamnet.ae/includes/session.php on line 12
+[20-Feb-2024 02:19:34 America/New_York] PHP Warning:  Undefined array key "arole" in /home/kartprpf/teamnet.ae/includes/session.php on line 13
+[20-Feb-2024 02:19:34 America/New_York] PHP Warning:  Undefined array key "adepart" in /home/kartprpf/teamnet.ae/includes/session.php on line 14
+[20-Feb-2024 02:19:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[20-Feb-2024 02:19:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[20-Feb-2024 02:19:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/index.php on line 46
+[20-Feb-2024 02:19:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/index.php on line 46
+[20-Feb-2024 05:16:48 America/New_York] PHP Warning:  Undefined array key "alogin" in /home/kartprpf/teamnet.ae/includes/session.php on line 12
+[20-Feb-2024 05:16:48 America/New_York] PHP Warning:  Undefined array key "arole" in /home/kartprpf/teamnet.ae/includes/session.php on line 13
+[20-Feb-2024 05:16:48 America/New_York] PHP Warning:  Undefined array key "adepart" in /home/kartprpf/teamnet.ae/includes/session.php on line 14
+[20-Feb-2024 05:16:48 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[20-Feb-2024 05:16:48 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[20-Feb-2024 05:16:48 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/index.php on line 46
+[20-Feb-2024 05:16:48 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/index.php on line 46
+[21-Feb-2024 04:53:09 America/New_York] PHP Warning:  Undefined array key "alogin" in /home/kartprpf/teamnet.ae/includes/session.php on line 12
+[21-Feb-2024 04:53:09 America/New_York] PHP Warning:  Undefined array key "arole" in /home/kartprpf/teamnet.ae/includes/session.php on line 13
+[21-Feb-2024 04:53:09 America/New_York] PHP Warning:  Undefined array key "adepart" in /home/kartprpf/teamnet.ae/includes/session.php on line 14
+[21-Feb-2024 04:53:09 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[21-Feb-2024 04:53:09 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[21-Feb-2024 04:53:09 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/add_report.php on line 309
+[21-Feb-2024 04:53:09 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/add_report.php on line 321
+[21-Feb-2024 04:53:09 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/add_report.php on line 337
+[21-Feb-2024 04:53:09 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/add_report.php on line 349
+[21-Feb-2024 05:33:14 America/New_York] PHP Fatal error:  Uncaught Error: Object of class DateTime could not be converted to string in /home/kartprpf/teamnet.ae/staff/apply_leaves.php:324
+Stack trace:
+#0 {main}
+  thrown in /home/kartprpf/teamnet.ae/staff/apply_leaves.php on line 324
+[21-Feb-2024 06:11:40 America/New_York] PHP Fatal error:  Uncaught Error: Object of class DateInterval could not be converted to string in /home/kartprpf/teamnet.ae/staff/apply_leaves.php:327
+Stack trace:
+#0 {main}
+  thrown in /home/kartprpf/teamnet.ae/staff/apply_leaves.php on line 327
+[21-Feb-2024 10:14:42 America/New_York] PHP Warning:  Undefined array key "alogin" in /home/kartprpf/teamnet.ae/includes/session.php on line 12
+[21-Feb-2024 10:14:42 America/New_York] PHP Warning:  Undefined array key "arole" in /home/kartprpf/teamnet.ae/includes/session.php on line 13
+[21-Feb-2024 10:14:42 America/New_York] PHP Warning:  Undefined array key "adepart" in /home/kartprpf/teamnet.ae/includes/session.php on line 14
+[21-Feb-2024 10:14:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[21-Feb-2024 10:14:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[21-Feb-2024 10:14:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/apply_leaves.php on line 488
+[21-Feb-2024 10:14:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/apply_leaves.php on line 494
+[21-Feb-2024 10:14:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/apply_leaves.php on line 502
+[21-Feb-2024 10:14:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/apply_leaves.php on line 508
+[21-Feb-2024 10:14:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/apply_leaves.php on line 588
+[22-Feb-2024 13:21:34 America/New_York] PHP Warning:  Undefined array key "alogin" in /home/kartprpf/teamnet.ae/includes/session.php on line 12
+[22-Feb-2024 13:21:34 America/New_York] PHP Warning:  Undefined array key "arole" in /home/kartprpf/teamnet.ae/includes/session.php on line 13
+[22-Feb-2024 13:21:34 America/New_York] PHP Warning:  Undefined array key "adepart" in /home/kartprpf/teamnet.ae/includes/session.php on line 14
+[22-Feb-2024 13:21:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[22-Feb-2024 13:21:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[24-Feb-2024 01:44:12 America/New_York] PHP Warning:  Undefined array key "alogin" in /home/kartprpf/teamnet.ae/includes/session.php on line 12
+[24-Feb-2024 01:44:12 America/New_York] PHP Warning:  Undefined array key "arole" in /home/kartprpf/teamnet.ae/includes/session.php on line 13
+[24-Feb-2024 01:44:12 America/New_York] PHP Warning:  Undefined array key "adepart" in /home/kartprpf/teamnet.ae/includes/session.php on line 14
+[24-Feb-2024 01:44:12 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[24-Feb-2024 01:44:12 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[24-Feb-2024 01:44:12 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/add_report.php on line 309
+[24-Feb-2024 01:44:12 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/add_report.php on line 321
+[24-Feb-2024 01:44:12 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/add_report.php on line 337
+[24-Feb-2024 01:44:12 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/add_report.php on line 349
+[24-Feb-2024 09:07:13 America/New_York] PHP Warning:  Undefined array key "alogin" in /home/kartprpf/teamnet.ae/includes/session.php on line 12
+[24-Feb-2024 09:07:13 America/New_York] PHP Warning:  Undefined array key "arole" in /home/kartprpf/teamnet.ae/includes/session.php on line 13
+[24-Feb-2024 09:07:13 America/New_York] PHP Warning:  Undefined array key "adepart" in /home/kartprpf/teamnet.ae/includes/session.php on line 14
+[24-Feb-2024 09:07:13 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[24-Feb-2024 09:07:13 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[24-Feb-2024 09:07:13 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/add_report.php on line 309
+[24-Feb-2024 09:07:13 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/add_report.php on line 321
+[24-Feb-2024 09:07:13 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/add_report.php on line 337
+[24-Feb-2024 09:07:13 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/add_report.php on line 349
+[26-Feb-2024 01:21:26 America/New_York] PHP Warning:  Undefined array key "alogin" in /home/kartprpf/teamnet.ae/includes/session.php on line 12
+[26-Feb-2024 01:21:26 America/New_York] PHP Warning:  Undefined array key "arole" in /home/kartprpf/teamnet.ae/includes/session.php on line 13
+[26-Feb-2024 01:21:26 America/New_York] PHP Warning:  Undefined array key "adepart" in /home/kartprpf/teamnet.ae/includes/session.php on line 14
+[26-Feb-2024 01:21:26 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[26-Feb-2024 01:21:26 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[26-Feb-2024 01:21:26 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/add_report.php on line 309
+[26-Feb-2024 01:21:26 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/add_report.php on line 321
+[26-Feb-2024 01:21:26 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/add_report.php on line 337
+[26-Feb-2024 01:21:26 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/add_report.php on line 349
+[26-Feb-2024 03:23:51 America/New_York] PHP Warning:  Undefined array key "alogin" in /home/kartprpf/teamnet.ae/includes/session.php on line 12
+[26-Feb-2024 03:23:51 America/New_York] PHP Warning:  Undefined array key "arole" in /home/kartprpf/teamnet.ae/includes/session.php on line 13
+[26-Feb-2024 03:23:51 America/New_York] PHP Warning:  Undefined array key "adepart" in /home/kartprpf/teamnet.ae/includes/session.php on line 14
+[26-Feb-2024 03:23:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[26-Feb-2024 03:23:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[26-Feb-2024 06:56:44 America/New_York] PHP Warning:  Undefined array key "alogin" in /home/kartprpf/teamnet.ae/includes/session.php on line 12
+[26-Feb-2024 06:56:44 America/New_York] PHP Warning:  Undefined array key "arole" in /home/kartprpf/teamnet.ae/includes/session.php on line 13
+[26-Feb-2024 06:56:44 America/New_York] PHP Warning:  Undefined array key "adepart" in /home/kartprpf/teamnet.ae/includes/session.php on line 14
+[26-Feb-2024 06:56:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[26-Feb-2024 06:56:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[26-Feb-2024 06:56:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/index.php on line 46
+[26-Feb-2024 06:56:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/index.php on line 46
+[27-Feb-2024 05:48:28 America/New_York] PHP Warning:  Undefined array key "alogin" in /home/kartprpf/teamnet.ae/includes/session.php on line 12
+[27-Feb-2024 05:48:28 America/New_York] PHP Warning:  Undefined array key "arole" in /home/kartprpf/teamnet.ae/includes/session.php on line 13
+[27-Feb-2024 05:48:28 America/New_York] PHP Warning:  Undefined array key "adepart" in /home/kartprpf/teamnet.ae/includes/session.php on line 14
+[27-Feb-2024 05:48:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/chat.php on line 86
+[27-Feb-2024 05:48:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/chat.php on line 86
+[27-Feb-2024 05:48:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/chat.php on line 86
+[27-Feb-2024 09:16:19 America/New_York] PHP Warning:  Undefined array key "alogin" in /home/kartprpf/teamnet.ae/includes/session.php on line 12
+[27-Feb-2024 09:16:19 America/New_York] PHP Warning:  Undefined array key "arole" in /home/kartprpf/teamnet.ae/includes/session.php on line 13
+[27-Feb-2024 09:16:19 America/New_York] PHP Warning:  Undefined array key "adepart" in /home/kartprpf/teamnet.ae/includes/session.php on line 14
+[27-Feb-2024 09:16:19 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[27-Feb-2024 09:16:19 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[27-Feb-2024 09:16:19 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/apply_leaves.php on line 488
+[27-Feb-2024 09:16:19 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/apply_leaves.php on line 494
+[27-Feb-2024 09:16:19 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/apply_leaves.php on line 502
+[27-Feb-2024 09:16:19 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/apply_leaves.php on line 508
+[27-Feb-2024 09:16:19 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/apply_leaves.php on line 588
+[01-Mar-2024 07:46:41 America/New_York] PHP Warning:  Undefined array key "alogin" in /home/kartprpf/teamnet.ae/includes/session.php on line 12
+[01-Mar-2024 07:46:41 America/New_York] PHP Warning:  Undefined array key "arole" in /home/kartprpf/teamnet.ae/includes/session.php on line 13
+[01-Mar-2024 07:46:41 America/New_York] PHP Warning:  Undefined array key "adepart" in /home/kartprpf/teamnet.ae/includes/session.php on line 14
+[01-Mar-2024 07:46:41 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[01-Mar-2024 07:46:41 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[02-Mar-2024 03:09:24 America/New_York] PHP Warning:  Undefined array key "alogin" in /home/kartprpf/teamnet.ae/includes/session.php on line 12
+[02-Mar-2024 03:09:24 America/New_York] PHP Warning:  Undefined array key "arole" in /home/kartprpf/teamnet.ae/includes/session.php on line 13
+[02-Mar-2024 03:09:24 America/New_York] PHP Warning:  Undefined array key "adepart" in /home/kartprpf/teamnet.ae/includes/session.php on line 14
+[02-Mar-2024 03:09:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[02-Mar-2024 03:09:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[02-Mar-2024 03:59:01 America/New_York] PHP Warning:  Undefined array key "alogin" in /home/kartprpf/teamnet.ae/includes/session.php on line 12
+[02-Mar-2024 03:59:01 America/New_York] PHP Warning:  Undefined array key "arole" in /home/kartprpf/teamnet.ae/includes/session.php on line 13
+[02-Mar-2024 03:59:01 America/New_York] PHP Warning:  Undefined array key "adepart" in /home/kartprpf/teamnet.ae/includes/session.php on line 14
+[02-Mar-2024 03:59:01 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[02-Mar-2024 03:59:01 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[02-Mar-2024 03:59:01 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/index.php on line 46
+[02-Mar-2024 03:59:01 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/index.php on line 46
+[04-Mar-2024 02:16:36 America/New_York] PHP Warning:  Undefined array key "alogin" in /home/kartprpf/teamnet.ae/includes/session.php on line 12
+[04-Mar-2024 02:16:36 America/New_York] PHP Warning:  Undefined array key "arole" in /home/kartprpf/teamnet.ae/includes/session.php on line 13
+[04-Mar-2024 02:16:36 America/New_York] PHP Warning:  Undefined array key "adepart" in /home/kartprpf/teamnet.ae/includes/session.php on line 14
+[04-Mar-2024 02:16:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[04-Mar-2024 02:16:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[04-Mar-2024 02:16:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/index.php on line 46
+[04-Mar-2024 02:16:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/index.php on line 46
+[04-Mar-2024 03:25:36 America/New_York] PHP Warning:  Undefined array key "alogin" in /home/kartprpf/teamnet.ae/includes/session.php on line 12
+[04-Mar-2024 03:25:36 America/New_York] PHP Warning:  Undefined array key "arole" in /home/kartprpf/teamnet.ae/includes/session.php on line 13
+[04-Mar-2024 03:25:36 America/New_York] PHP Warning:  Undefined array key "adepart" in /home/kartprpf/teamnet.ae/includes/session.php on line 14
+[04-Mar-2024 03:25:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[04-Mar-2024 03:25:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[04-Mar-2024 03:25:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/add_report.php on line 309
+[04-Mar-2024 03:25:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/add_report.php on line 321
+[04-Mar-2024 03:25:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/add_report.php on line 337
+[04-Mar-2024 03:25:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/add_report.php on line 349
+[05-Mar-2024 01:31:51 America/New_York] PHP Warning:  Undefined array key "alogin" in /home/kartprpf/teamnet.ae/includes/session.php on line 12
+[05-Mar-2024 01:31:51 America/New_York] PHP Warning:  Undefined array key "arole" in /home/kartprpf/teamnet.ae/includes/session.php on line 13
+[05-Mar-2024 01:31:51 America/New_York] PHP Warning:  Undefined array key "adepart" in /home/kartprpf/teamnet.ae/includes/session.php on line 14
+[05-Mar-2024 01:31:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[05-Mar-2024 01:31:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[05-Mar-2024 02:14:56 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'HodRemarks' in 'where clause' in /home/kartprpf/teamnet.ae/staff/view_overtime_remote.php:60
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/staff/view_overtime_remote.php(60): mysqli_query()
+#1 {main}
+  thrown in /home/kartprpf/teamnet.ae/staff/view_overtime_remote.php on line 60
+[05-Mar-2024 02:16:18 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'HodRemarks' in 'where clause' in /home/kartprpf/teamnet.ae/staff/view_overtime_remote.php:65
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/staff/view_overtime_remote.php(65): mysqli_query()
+#1 {main}
+  thrown in /home/kartprpf/teamnet.ae/staff/view_overtime_remote.php on line 65
+[05-Mar-2024 02:17:35 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'HodRemarks' in 'where clause' in /home/kartprpf/teamnet.ae/staff/view_overtime_remote.php:85
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/staff/view_overtime_remote.php(85): mysqli_query()
+#1 {main}
+  thrown in /home/kartprpf/teamnet.ae/staff/view_overtime_remote.php on line 85
+[05-Mar-2024 02:17:39 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'HodRemarks' in 'where clause' in /home/kartprpf/teamnet.ae/staff/view_overtime_remote.php:85
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/staff/view_overtime_remote.php(85): mysqli_query()
+#1 {main}
+  thrown in /home/kartprpf/teamnet.ae/staff/view_overtime_remote.php on line 85
+[05-Mar-2024 02:17:42 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'HodRemarks' in 'where clause' in /home/kartprpf/teamnet.ae/staff/view_overtime_remote.php:85
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/staff/view_overtime_remote.php(85): mysqli_query()
+#1 {main}
+  thrown in /home/kartprpf/teamnet.ae/staff/view_overtime_remote.php on line 85
+[05-Mar-2024 02:17:44 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'HodRemarks' in 'where clause' in /home/kartprpf/teamnet.ae/staff/view_overtime_remote.php:85
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/staff/view_overtime_remote.php(85): mysqli_query()
+#1 {main}
+  thrown in /home/kartprpf/teamnet.ae/staff/view_overtime_remote.php on line 85
+[05-Mar-2024 06:43:08 America/New_York] PHP Warning:  Undefined array key "alogin" in /home/kartprpf/teamnet.ae/includes/session.php on line 12
+[05-Mar-2024 06:43:08 America/New_York] PHP Warning:  Undefined array key "arole" in /home/kartprpf/teamnet.ae/includes/session.php on line 13
+[05-Mar-2024 06:43:08 America/New_York] PHP Warning:  Undefined array key "adepart" in /home/kartprpf/teamnet.ae/includes/session.php on line 14
+[05-Mar-2024 06:43:08 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[05-Mar-2024 06:43:08 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/includes/navbar.php on line 27
+[05-Mar-2024 06:43:08 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/index.php on line 46
+[05-Mar-2024 06:43:08 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/kartprpf/teamnet.ae/staff/index.php on line 46

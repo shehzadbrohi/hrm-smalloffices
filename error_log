@@ -1,0 +1,216 @@
+[17-Jan-2024 04:30:14 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'kartprpf_teamnet'@'localhost' to database 'kartprpf_teamnet' in /home/kartprpf/public_html/tn/includes/config.php on line 8
+[17-Jan-2024 04:30:14 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_error() expects exactly 1 argument, 0 given in /home/kartprpf/public_html/tn/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/public_html/tn/includes/config.php(8): mysqli_error()
+#1 /home/kartprpf/public_html/tn/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/public_html/tn/includes/config.php on line 8
+[17-Jan-2024 04:30:17 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'kartprpf_teamnet'@'localhost' to database 'kartprpf_teamnet' in /home/kartprpf/public_html/tn/includes/config.php on line 8
+[17-Jan-2024 04:30:17 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_error() expects exactly 1 argument, 0 given in /home/kartprpf/public_html/tn/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/public_html/tn/includes/config.php(8): mysqli_error()
+#1 /home/kartprpf/public_html/tn/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/public_html/tn/includes/config.php on line 8
+[17-Jan-2024 04:31:18 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'kartprpf_teamnet'@'localhost' to database 'kartprpf_teamnet' in /home/kartprpf/public_html/tn/includes/config.php on line 8
+[17-Jan-2024 04:31:18 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_error() expects exactly 1 argument, 0 given in /home/kartprpf/public_html/tn/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/public_html/tn/includes/config.php(8): mysqli_error()
+#1 /home/kartprpf/public_html/tn/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/public_html/tn/includes/config.php on line 8
+[17-Jan-2024 04:32:40 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'kartprpf_teamnet'@'localhost' to database 'kartprpf_teamnet' in /home/kartprpf/public_html/tn/includes/config.php on line 8
+[17-Jan-2024 04:32:40 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_error() expects exactly 1 argument, 0 given in /home/kartprpf/public_html/tn/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/public_html/tn/includes/config.php(8): mysqli_error()
+#1 /home/kartprpf/public_html/tn/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/public_html/tn/includes/config.php on line 8
+[17-Jan-2024 04:32:43 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'kartprpf_teamnet'@'localhost' to database 'kartprpf_teamnet' in /home/kartprpf/public_html/tn/includes/config.php on line 8
+[17-Jan-2024 04:32:43 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_error() expects exactly 1 argument, 0 given in /home/kartprpf/public_html/tn/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/public_html/tn/includes/config.php(8): mysqli_error()
+#1 /home/kartprpf/public_html/tn/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/public_html/tn/includes/config.php on line 8
+[17-Jan-2024 04:32:45 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'kartprpf_teamnet'@'localhost' to database 'kartprpf_teamnet' in /home/kartprpf/public_html/tn/includes/config.php on line 8
+[17-Jan-2024 04:32:45 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_error() expects exactly 1 argument, 0 given in /home/kartprpf/public_html/tn/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/public_html/tn/includes/config.php(8): mysqli_error()
+#1 /home/kartprpf/public_html/tn/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/public_html/tn/includes/config.php on line 8
+[17-Jan-2024 04:32:48 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'kartprpf_teamnet'@'localhost' to database 'kartprpf_teamnet' in /home/kartprpf/public_html/tn/includes/config.php on line 8
+[17-Jan-2024 04:32:48 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_error() expects exactly 1 argument, 0 given in /home/kartprpf/public_html/tn/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/public_html/tn/includes/config.php(8): mysqli_error()
+#1 /home/kartprpf/public_html/tn/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/public_html/tn/includes/config.php on line 8
+[17-Jan-2024 04:32:50 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'kartprpf_teamnet'@'localhost' to database 'kartprpf_teamnet' in /home/kartprpf/public_html/tn/includes/config.php on line 8
+[17-Jan-2024 04:32:50 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_error() expects exactly 1 argument, 0 given in /home/kartprpf/public_html/tn/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/public_html/tn/includes/config.php(8): mysqli_error()
+#1 /home/kartprpf/public_html/tn/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/public_html/tn/includes/config.php on line 8
+[17-Jan-2024 04:34:04 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'kartprpf_teamnet'@'localhost' to database 'kartprpf_teamnet' in /home/kartprpf/public_html/tn/includes/config.php on line 8
+[17-Jan-2024 04:34:04 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_error() expects exactly 1 argument, 0 given in /home/kartprpf/public_html/tn/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/public_html/tn/includes/config.php(8): mysqli_error()
+#1 /home/kartprpf/public_html/tn/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/public_html/tn/includes/config.php on line 8
+[17-Jan-2024 04:34:11 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'kartprpf_teamnet'@'localhost' to database 'kartprpf_teamnet' in /home/kartprpf/public_html/tn/includes/config.php on line 8
+[17-Jan-2024 04:34:11 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_error() expects exactly 1 argument, 0 given in /home/kartprpf/public_html/tn/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/public_html/tn/includes/config.php(8): mysqli_error()
+#1 /home/kartprpf/public_html/tn/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/public_html/tn/includes/config.php on line 8
+[17-Jan-2024 04:34:14 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'kartprpf_teamnet'@'localhost' to database 'kartprpf_teamnet' in /home/kartprpf/public_html/tn/includes/config.php on line 8
+[17-Jan-2024 04:34:14 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_error() expects exactly 1 argument, 0 given in /home/kartprpf/public_html/tn/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/public_html/tn/includes/config.php(8): mysqli_error()
+#1 /home/kartprpf/public_html/tn/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/public_html/tn/includes/config.php on line 8
+[18-Jan-2024 00:42:40 America/New_York] PHP Warning:  Undefined variable $emp_id in /home/kartprpf/tn.kartech.ae/logout.php on line 9
+[25-Jan-2024 05:30:00 America/New_York] PHP Warning:  Undefined variable $emp_id in /home/kartprpf/teamnet.ae/logout.php on line 9
+[26-Jan-2024 15:00:59 America/New_York] PHP Warning:  Undefined variable $emp_id in /home/kartprpf/teamnet.ae/logout.php on line 9
+[31-Jan-2024 01:56:11 America/New_York] PHP Warning:  Undefined variable $emp_id in /home/kartprpf/teamnet.ae/logout.php on line 9
+[05-Feb-2024 01:07:04 America/New_York] PHP Warning:  Undefined variable $emp_id in /home/kartprpf/teamnet.ae/logout.php on line 9
+[15-Feb-2024 05:15:43 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/kartprpf/teamnet.ae/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/includes/config.php(8): mysqli_connect()
+#1 /home/kartprpf/teamnet.ae/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/teamnet.ae/includes/config.php on line 8
+[15-Feb-2024 05:15:45 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/kartprpf/teamnet.ae/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/includes/config.php(8): mysqli_connect()
+#1 /home/kartprpf/teamnet.ae/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/teamnet.ae/includes/config.php on line 8
+[15-Feb-2024 05:15:45 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/kartprpf/teamnet.ae/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/includes/config.php(8): mysqli_connect()
+#1 /home/kartprpf/teamnet.ae/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/teamnet.ae/includes/config.php on line 8
+[15-Feb-2024 05:15:46 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/kartprpf/teamnet.ae/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/includes/config.php(8): mysqli_connect()
+#1 /home/kartprpf/teamnet.ae/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/teamnet.ae/includes/config.php on line 8
+[15-Feb-2024 05:15:56 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/kartprpf/teamnet.ae/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/includes/config.php(8): mysqli_connect()
+#1 /home/kartprpf/teamnet.ae/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/teamnet.ae/includes/config.php on line 8
+[15-Feb-2024 05:15:56 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/kartprpf/teamnet.ae/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/includes/config.php(8): mysqli_connect()
+#1 /home/kartprpf/teamnet.ae/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/teamnet.ae/includes/config.php on line 8
+[15-Feb-2024 05:15:57 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/kartprpf/teamnet.ae/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/includes/config.php(8): mysqli_connect()
+#1 /home/kartprpf/teamnet.ae/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/teamnet.ae/includes/config.php on line 8
+[15-Feb-2024 05:15:57 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/kartprpf/teamnet.ae/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/includes/config.php(8): mysqli_connect()
+#1 /home/kartprpf/teamnet.ae/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/teamnet.ae/includes/config.php on line 8
+[15-Feb-2024 05:16:00 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/kartprpf/teamnet.ae/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/includes/config.php(8): mysqli_connect()
+#1 /home/kartprpf/teamnet.ae/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/teamnet.ae/includes/config.php on line 8
+[15-Feb-2024 05:16:06 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/kartprpf/teamnet.ae/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/includes/config.php(8): mysqli_connect()
+#1 /home/kartprpf/teamnet.ae/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/teamnet.ae/includes/config.php on line 8
+[15-Feb-2024 05:16:09 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/kartprpf/teamnet.ae/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/includes/config.php(8): mysqli_connect()
+#1 /home/kartprpf/teamnet.ae/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/teamnet.ae/includes/config.php on line 8
+[15-Feb-2024 05:16:18 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/kartprpf/teamnet.ae/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/includes/config.php(8): mysqli_connect()
+#1 /home/kartprpf/teamnet.ae/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/teamnet.ae/includes/config.php on line 8
+[15-Feb-2024 05:19:14 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/kartprpf/teamnet.ae/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/includes/config.php(8): mysqli_connect()
+#1 /home/kartprpf/teamnet.ae/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/teamnet.ae/includes/config.php on line 8
+[15-Feb-2024 05:19:17 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/kartprpf/teamnet.ae/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/includes/config.php(8): mysqli_connect()
+#1 /home/kartprpf/teamnet.ae/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/teamnet.ae/includes/config.php on line 8
+[15-Feb-2024 05:24:52 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/kartprpf/teamnet.ae/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/includes/config.php(8): mysqli_connect()
+#1 /home/kartprpf/teamnet.ae/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/teamnet.ae/includes/config.php on line 8
+[15-Feb-2024 05:25:12 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/kartprpf/teamnet.ae/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/includes/config.php(8): mysqli_connect()
+#1 /home/kartprpf/teamnet.ae/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/teamnet.ae/includes/config.php on line 8
+[15-Feb-2024 05:25:17 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/kartprpf/teamnet.ae/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/includes/config.php(8): mysqli_connect()
+#1 /home/kartprpf/teamnet.ae/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/teamnet.ae/includes/config.php on line 8
+[15-Feb-2024 05:25:19 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/kartprpf/teamnet.ae/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/includes/config.php(8): mysqli_connect()
+#1 /home/kartprpf/teamnet.ae/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/teamnet.ae/includes/config.php on line 8
+[15-Feb-2024 05:25:28 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/kartprpf/teamnet.ae/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/includes/config.php(8): mysqli_connect()
+#1 /home/kartprpf/teamnet.ae/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/teamnet.ae/includes/config.php on line 8
+[15-Feb-2024 05:25:29 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/kartprpf/teamnet.ae/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/includes/config.php(8): mysqli_connect()
+#1 /home/kartprpf/teamnet.ae/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/teamnet.ae/includes/config.php on line 8
+[15-Feb-2024 05:25:52 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/kartprpf/teamnet.ae/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/includes/config.php(8): mysqli_connect()
+#1 /home/kartprpf/teamnet.ae/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/teamnet.ae/includes/config.php on line 8
+[15-Feb-2024 05:27:11 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/kartprpf/teamnet.ae/includes/config.php:8
+Stack trace:
+#0 /home/kartprpf/teamnet.ae/includes/config.php(8): mysqli_connect()
+#1 /home/kartprpf/teamnet.ae/index.php(3): include('/home/kartprpf/...')
+#2 {main}
+  thrown in /home/kartprpf/teamnet.ae/includes/config.php on line 8
+[04-Mar-2024 02:17:39 America/New_York] PHP Warning:  Undefined variable $emp_id in /home/kartprpf/teamnet.ae/logout.php on line 9
+[05-Mar-2024 04:49:32 America/New_York] PHP Warning:  Undefined variable $emp_id in /home/kartprpf/teamnet.ae/logout.php on line 9
